@@ -22,5 +22,5 @@ If you want to contribute to this list, send a pull request, or contact me [@ytt
 
 ## Resources
 - [[Survey] Machine Learning for Big Code and Naturalness](https://ml4code.github.io/papers.html)
-- [Awesome Machine Learning on Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code
+- [[Awesome Machine Learning on Source Code]](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
